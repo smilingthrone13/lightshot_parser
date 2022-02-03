@@ -6,10 +6,6 @@
 ### Технологии
 - Python 3.9 (библиотеки Random, Re, Cloudscrapper, Requests, BeautifulSoup4)
 
-### Клонируйте проект 
-```
-git clone git@github.com:smilingthrone13/lightshot_parser.git
-```
 ### Запустите проект
 ```bash
 python main.py
